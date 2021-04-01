@@ -78,7 +78,7 @@
   /* font-weight: bold; */
 }
 .homebanner {
-  background-image: url("img/homebanner.jpg");
+  background-image: url('img/homebanner.jpg');
   background-position: center center;
   height: 85vh;
   background-repeat: no-repeat;
@@ -168,7 +168,7 @@
   width: 100%;
 }
 .leverage-bg {
-  background-image: url('../img/leverage.jpg');
+  background-image: url('img/leverage.jpg');
   background-size: cover;
   background-repeat: no-repeat;
   padding: 4% 0%;
@@ -194,7 +194,7 @@
   margin-top: 5%;
 }
 .circle1 {
-  background-image: url('../img/circle1.png');
+  background-image: url('img/circle1.png');
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -204,7 +204,7 @@
   padding-right: 12px;
 }
 .circle2 {
-  background-image: url('../img/circle2.png');
+  background-image: url('img/circle2.png');
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -214,7 +214,7 @@
   padding-right: 12px;
 }
 .circle3 {
-  background-image: url('../img/circle3.png');
+  background-image: url('img/circle3.png');
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -224,7 +224,7 @@
   padding-right: 12px;
 }
 .circle4 {
-  background-image: url('../img/circle4.png');
+  background-image: url('img/circle4.png');
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
