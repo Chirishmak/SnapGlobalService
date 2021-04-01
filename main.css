@@ -1,5 +1,5 @@
 @font-face {
-  font-family: 'Open font';
+  font-family: 'Noto Sans';
   src: url('../fonts/NotoSans-Bold.woff2') format('woff2'),
       url('../fonts/NotoSans-Bold.woff') format('woff');
   font-weight: bold;
@@ -8,7 +8,7 @@
 }
 
 @font-face {
-  font-family: 'Open font';
+  font-family: 'Noto Sans';
   src: url('../fonts/NotoSans-BoldItalic.woff2') format('woff2'),
       url('../fonts/NotoSans-BoldItalic.woff') format('woff');
   font-weight: bold;
@@ -17,7 +17,7 @@
 }
 
 @font-face {
-  font-family: 'Open font';
+  font-family: 'Noto Sans';
   src: url('../fonts/NotoSans-Italic.woff2') format('woff2'),
       url('../fonts/NotoSans-Italic.woff') format('woff');
   font-weight: normal;
@@ -26,7 +26,7 @@
 }
 
 @font-face {
-  font-family: 'Open font';
+  font-family: 'Noto Sans';
   src: url('../fonts/NotoSans.woff2') format('woff2'),
       url('../fonts/NotoSans.woff') format('woff');
   font-weight: normal;
@@ -64,7 +64,7 @@
 }
 .navbar-nav{
   color: black;
-  font-family: 'Noto Sans';
+  font-family: 'Callibir';
   font-size: 16px;
   padding-left: 0.8rem !important;
   padding-right: 0.8rem !important;
@@ -95,7 +95,7 @@
   }
 }
 .banner-head {
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-weight: bold;
   color: #fff;
   vertical-align: middle;
@@ -104,7 +104,7 @@
   padding-top: 200px;
 }
 .banner-desc {
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #fff;
   font-size: 30px;
   margin-top: 25px;
@@ -115,14 +115,14 @@
 }
 .counter-head {
   font-size: 35px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #fff;
   text-align: center;
   font-weight: bold;
 }
 .counter-desc {
   font-size: 17px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #fff;
   text-align: center;
   margin-top: -15px;
@@ -144,7 +144,7 @@
 }
 .who-we-are-head {
   font-size: 32px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #2e3192;
   text-align: left;
   font-weight: bold;
@@ -152,7 +152,7 @@
 }
 .who-we-are-subhead {
   font-size: 25px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #464647;
   text-align: left;
   font-weight: bold;
@@ -160,7 +160,7 @@
 }
 .who-we-are-desc {
   font-size: 16px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   text-align: justify;
   color: #464647;
 }
@@ -175,14 +175,14 @@
 }
 .leverage-head {
   font-size: 30px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #fff;
   text-align: center;
   font-weight: bold;
 }
 .leverage-subhead {
   font-size: 20px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   color: #fff;
   text-align: center;
   margin-top: -15px;
@@ -276,7 +276,7 @@
 .circle-text {
   color: #363636;
   font-size: 15px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   text-align: center;
   line-height: 19px;
   margin-top: 15px;
@@ -288,13 +288,13 @@
 .result-head {
   color: #363636;
   font-size: 30px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-weight: bold;
 }
 .result-desc {
   color: #363636;
   font-size: 17px;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   margin-top: -10px;
 }
 .box-bord {
@@ -308,13 +308,13 @@
 }
 .box-head {
   color: #363636;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-weight: bold;
   font-size: 21px;
 }
 .box-desc {
   color: #363636;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-size: 18px;
   margin-top: -7px;
 }
@@ -334,13 +334,13 @@
 }
 .trust-head {
   color: #fff;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-weight: bold;
   font-size: 30px;
 }
 .trust-desc {
   color: #fff;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   margin-top: 20px;
   line-height: 22px;
 }
@@ -367,12 +367,12 @@
 }
 .testi-head {
   color: #fff;
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-weight: bold;
   font-size: 30px;
 }
 .client-text {
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-size: 17px;
   font-style: italic;
   color: #fff;
@@ -387,7 +387,7 @@
   margin-right: 10px;
 }
 .client-name {
-  font-family: 'Noto Sans';
+  font-family: 'Arial';
   font-size: 20px;
   color: #fff;
 }
