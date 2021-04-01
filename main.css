@@ -78,7 +78,7 @@
   /* font-weight: bold; */
 }
 .homebanner {
-  background-image: url('img/homebanner.jpg');
+  background-image: url('../img/homebanner.jpg');
   background-position: center center;
   height: 85vh;
   background-repeat: no-repeat;
