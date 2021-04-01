@@ -168,7 +168,7 @@
   width: 100%;
 }
 .leverage-bg {
-  background-image: url(../img/leverage.jpg);
+  background-image: url("img/leverage.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   padding: 4% 0%;
@@ -194,7 +194,7 @@
   margin-top: 5%;
 }
 .circle1 {
-  background-image: url(../img/circle1.png);
+  background-image: url("img/circle1.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -204,7 +204,7 @@
   padding-right: 12px;
 }
 .circle2 {
-  background-image: url(../img/circle2.png);
+  background-image: url("img/circle2.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -214,7 +214,7 @@
   padding-right: 12px;
 }
 .circle3 {
-  background-image: url(../img/circle3.png);
+  background-image: url("img/circle3.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -224,7 +224,7 @@
   padding-right: 12px;
 }
 .circle4 {
-  background-image: url(../img/circle4.png);
+  background-image: url("img/circle4.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -234,7 +234,7 @@
   padding-right: 12px;
 }
 .circle5 {
-  background-image: url(../img/circle5.png);
+  background-image: url("img/circle5.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -244,7 +244,7 @@
   padding-right: 12px;
 }
 .circle6 {
-  background-image: url(../img/circle6.png);
+  background-image: url("img/circle6.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -254,7 +254,7 @@
   padding-right: 12px;
 }
 .circle7 {
-  background-image: url(../img/circle7.png);
+  background-image: url("img/circle7.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -264,7 +264,7 @@
   padding-right: 12px;
 }
 .circle8 {
-  background-image: url(../img/circle8.png);
+  background-image: url("img/circle8.png");
   background-size: contain;
   background-repeat: no-repeat;
   padding-top: 44%;
@@ -322,7 +322,7 @@
   background-color: #363636;
 }
 .trust-div {
-  background-image: url(../img/trustbg.png);
+  background-image: url("img/trustbg.png");
   background-size: cover;
   background-position:center;
   background-repeat: no-repeat;
